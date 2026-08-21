@@ -58,13 +58,13 @@ Stores individual products included in each order:
 * Quantity
 * Unit Price
 
-### 🔗 Relationships
+### Relationships
 
 **Customers → Orders → Order_Items ← Products**
 
 Primary keys and foreign keys are used to maintain relationships between the tables.
 
-## 🛠️ SQL Concepts Used
+## SQL Concepts Used
 
 * Database and table creation
 * Primary Keys
