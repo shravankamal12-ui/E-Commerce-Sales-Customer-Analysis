@@ -1,6 +1,6 @@
 # E-Commerce Sales & Customer Analysis
 
-## 📌 Project Objective
+##  Project Objective
 
 This project analyzes e-commerce sales and customer data using **MySQL**.
 
@@ -12,7 +12,7 @@ The main objectives are to:
 * Understand customer purchasing patterns.
 * Generate useful business insights using SQL.
 
-## 🗄️ Database Structure
+##  Database Structure
 
 The project contains four relational tables:
 
@@ -87,7 +87,7 @@ Primary keys and foreign keys are used to maintain relationships between the tab
 * Sorting and filtering
 * Business-oriented data analysis
 
-## 📊 Key Results
+##  Key Results
 
 | Metric                    |                  Result |
 | ------------------------- | ----------------------: |
@@ -107,7 +107,7 @@ Primary keys and foreign keys are used to maintain relationships between the tab
 | Most Used Payment Method  |          UPI — 8 orders |
 | Delivered Orders          |                      15 |
 
-## 💡 Project Insights
+##  Project Insights
 
 * **Electronics** generated the highest category revenue.
 * **Smartphone** generated the highest product revenue.
@@ -118,13 +118,13 @@ Primary keys and foreign keys are used to maintain relationships between the tab
 * All **15 orders** in the dataset were delivered.
 * The inventory value of available products was **₹34,15,000**.
 
-## 🎯 Conclusion
+##  Conclusion
 
 This project demonstrates how SQL can be used to transform raw e-commerce data into meaningful business insights.
 
 The analysis can help businesses understand customer behavior, identify high-performing products and categories, evaluate sales performance, and support data-driven decision-making.
 
-## 💻 Technology Used
+##  Technology Used
 
 **MySQL 8.0**
 
